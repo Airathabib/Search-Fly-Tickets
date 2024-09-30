@@ -1,0 +1,154 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "from": "City 3",
+      "to": "City 4",
+			"company": "Победа",
+			"company_logo": "http://localhost:5173/src/assets/images/Pobeda.png",
+      "price": 12680,
+      "currency": "₽",
+      "time": {
+        "startTime": "12:00",
+        "endTime": "16:30"
+      },
+      "date": "2024-01-23",
+      "stops": 1
+    },
+    {
+      "id": 2,
+      "from": "City 1",
+      "to": "City 2",
+      "company": "Red Wings",
+			"company_logo": "http://localhost:5173/src/assets/images/RedWings.png",
+      "price": 21500,
+      "currency": "₽",
+      "time": {
+        "startTime": "14:00",
+        "endTime": "16:00"
+      },
+      "date": "2024-01-21",
+      "stops": 0
+    },
+    {
+      "id": 3,
+      "from": "City A",
+      "to": "City B",
+			"company": "S7 Airlines",
+      "company_logo": "http://localhost:5173/src/assets/images/S7Airlines.png",
+      "price": 23995,
+      "currency": "₽",
+      "time": {
+        "startTime": "04:50",
+        "endTime": "13:00"
+      },
+      "date": "2024-01-20",
+      "stops": 2
+    },
+    {
+      "id": 4,
+      "from": "City 5",
+      "to": "City 6",
+			"company": "Победа",
+      "company_logo": "http://localhost:5173/src/assets/images/Pobeda.png",
+      "price": 26500,
+      "currency": "₽",
+      "time": {
+        "startTime": "06:30",
+        "endTime": "11:30"
+      },
+      "date": "2024-01-23",
+      "stops": 2
+    },
+    {
+      "id": 5,
+      "from": "City 7",
+      "to": "City 8",
+			"company": "Red Wings",
+      "company_logo": "http://localhost:5173/src/assets/images/RedWings.png",
+      "price": 20100,
+      "currency": "₽",
+      "time": {
+        "startTime": "13:40",
+        "endTime": "15:30"
+      },
+      "date": "2024-01-23",
+      "stops": 0
+    },
+    {
+      "id": 6,
+      "from": "City 9",
+      "to": "City 10",
+			"company": "S7 Airlines",
+      "company_logo": "http://localhost:5173/src/assets/images/S7Airlines.png",
+      "price": 22200,
+      "currency": "₽",
+      "time": {
+        "startTime": "12:10",
+        "endTime": "14:00"
+      },
+      "date": "2024-01-23",
+      "stops": 0
+    },
+    {
+      "id": 7,
+      "from": "City 10",
+      "to": "City 11",
+			"company": "S7 Airlines",
+      "company_logo": "http://localhost:5173/src/assets/images/S7Airlines.png",
+      "price": 29000,
+      "currency": "₽",
+      "time": {
+        "startTime": "09:30",
+        "endTime": "16:20"
+      },
+      "date": "2024-01-23",
+      "stops": 2
+    },
+    {
+      "id": 8,
+      "from": "City 12",
+      "to": "City 13",
+			"company": "Победа",
+      "company_logo": "http://localhost:5173/src/assets/images/Pobeda.png",
+      "price": 27560,
+      "currency": "₽",
+      "time": {
+        "startTime": "07:20",
+        "endTime": "15:10"
+      },
+      "date": "2024-01-23",
+      "stops": 2
+    },
+    {
+      "id": 9,
+      "from": "City 14",
+      "to": "City 15",
+      "company": "Победа",
+      "company_logo": "http://localhost:5173/src/assets/images/Pobeda.png",
+      "price": 26500,
+      "currency": "₽",
+      "time": {
+        "startTime": "14:20",
+        "endTime": "18:00"
+      },
+      "date": "2024-01-23",
+      "stops": 2
+    },
+		{
+      "id": 10,
+      "from": "City 15",
+      "to": "City 16",
+      "company": "Red Wings",
+			"company_logo": "http://localhost:5173/src/assets/images/RedWings.png",
+      "price": 21500,
+      "currency": "₽",
+      "time": {
+        "startTime": "10:00",
+        "endTime": "12:00"
+      },
+      "date": "2024-01-10",
+      "stops": 0
+    }
+  ]
+}
